@@ -1,10 +1,14 @@
 {
-  "name": "lifts",
+  "name": "popoplift",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^2.13.4",
+    "moment": "^2.18.1",
+    "radium": "^0.19.5",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "recharts": "^1.0.0-apha.5"
   },
   "devDependencies": {
     "react-scripts": "1.0.14"
